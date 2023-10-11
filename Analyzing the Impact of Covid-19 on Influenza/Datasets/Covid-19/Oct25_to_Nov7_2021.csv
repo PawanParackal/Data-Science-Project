@@ -1,0 +1,84 @@
+﻿ADT FN22/2021,,,Notification received date,,,,,,,,,,,,,,,,,,,
+,,,State or Territory,,,,,,,,Totals for Australia,,,,Historical 90 Day Period,,,,Historical Yearly Period,,,
+Disease group,Disease name,Disease code,ACT,NSW,NT,Qld,SA,Tas,Vic,WA,This reporting period,Previous reporting Period,Same reporting period last year,"Current year
+YTD",Past Quarter,"Quarterly rolling 
+5 year mean",Ratio past quarter/5 year mean*,Exceeds quarterly rolling mean +2 SD by,Past Year,"Yearly rolling 
+5 year mean",Ratio past  year/5 year mean*,Exceeds yearly rolling mean +2 SD by
+,,,,,,,,,,,25-10-2021,11-10-2021,25-10-2020,01-01-2021,10-08-2021,,,,08-11-2020,08-11-2015,,
+,,,,,,,,,,,07-11-2021,24-10-2021,07-11-2020,07-11-2021,07-11-2021,,,,07-11-2021,07-11-2020,,
+Bloodborne diseases,Hepatitis B (newly acquired),39, -   , -   , -   ,1, -   , -   , -   , -   ,1, -   , -   ,72,11,33.2,0.3, -   ,95,148.2,0.6, -   
+,Hepatitis B (unspecified),52,2,77, -   ,43, -   ,1,58,22,203,187,188,"4,084","1,183","1,409.60",0.8, -   ,"4,760","5,742.00",0.8, -   
+,Hepatitis C (newly acquired),40, -   ,1, -   ,9, -   , -   , -   ,1,11,31,28,622,163,178,0.9, -   ,704,702.4,1, -   
+,Hepatitis C (unspecified),53,1,116,3,78,1,6,45,30,280,250,279,"5,944","1,602","2,235.40",0.7, -   ,"7,015","9,468.20",0.7, -   
+,Hepatitis D,50, -   ,2, -   , -   , -   , -   , -   , -   ,2,4,3,73,17,21.2,0.8, -   ,81,70.6,1.1, -   
+Gastrointestinal diseases,Botulism,45, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,2, -   , -   ,  , -   ,3,1,3, -   
+,Campylobacteriosis,5,46,487,11,355,135,42,294,154,"1,524","1,452","1,498","30,560","8,220","7,720.80",1.1, -   ,"36,373","30,527.00",1.2, -   
+,Cryptosporidiosis,61, -   ,9,2,13,5,2,18,2,51,40,48,"1,548",314,443.4,0.7, -   ,"1,734","3,793.80",0.5, -   
+,Haemolytic uraemic syndrome (HUS),55, -   , -   , -   , -   ,1, -   , -   , -   ,1, -   ,1,7,3,3.2,0.9, -   ,7,15.6,0.4, -   
+,Hepatitis A,38, -   ,1, -   ,1, -   , -   , -   , -   ,2,2, -   ,20,12,43.2,0.3, -   ,20,230.8,0.1, -   
+,Hepatitis E,51, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,10,1,7.4,0.1, -   ,10,46.6,0.2, -   
+,Listeriosis,18, -   ,1, -   , -   , -   , -   , -   , -   ,1,2,1,39,11,14.8,0.7, -   ,50,65.8,0.8, -   
+,Paratyphoid,80, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,3, -   ,10, -   , -   ,3,80.2,0, -   
+,Salmonellosis,30,7,119,21,134,24,2,36,24,367,381,330,"9,068","1,766","2,551.40",0.7, -   ,"10,541","15,283.00",0.7, -   
+,Shigellosis,31, -   ,1,3,1,1,1,1,5,13,20,26,391,109,468.4,0.2, -   ,497,"2,100.80",0.2, -   
+,STEC,54, -   ,7, -   ,2,7, -   ,6,7,29,16,27,493,131,119.8,1.1, -   ,579,512.6,1.1, -   
+,Typhoid Fever,35, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,1,12,4,24,0.2, -   ,18,144.4,0.1, -   
+Quarantinable diseases,Avian influenza in humans (AIH),76, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Cholera,8, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,1,1,0.4,2.5, -   ,1,1.2,0.8, -   
+,COVID-19,81,146,"3,222",4,11, -   , -   ,"17,960",1,"21344","30,479",124,"1,52,685","1,44,177","1,283.80",112.3,"1,37,151.90","1,53,413","5,451.60",28.1,"1,23,581.10"
+,Middle East respiratory syndrome coronavirus (MERS-CoV),79, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Plague,25, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Rabies,28, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Severe acute respiratory syndrome (SARS),71, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Smallpox,69, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Viral haemorrhagic fever (NEC),36, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Yellow fever,41, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+Sexually transmissible infections,Chlamydial infection,7,45,806,66,937,230,55,344,411,"2,894","2,951","3,358","74,120","19,099","24,070.40",0.8, -   ,"86,480","1,00,506.40",0.9, -   
+,Donovanosis,10, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Gonococcal infection,11,8,218,51,216,42,7,184,106,832,804,997,"22,582","5,466","7,108.20",0.8, -   ,"26,295","29,467.80",0.9, -   
+,Syphilis < 2 years,66,1,28,3,39,2, -   ,45,28,146,181,193,"4,749","1,223","1,239.40",1, -   ,5463,4808.8,1, -   
+,Syphilis > 2 years or unspecified duration,67, -   ,2, -   ,3,2, -   ,33,3,43,43,67,"1,509",341,525.2,0.6, -   ,"1,802","2,145.00",0.8, -   
+,Syphilis congenital ,47, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,13,3,2.4,1.3, -   ,17,7.8,2.2, -   
+Vaccine preventable diseases,Diphtheria,9, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,6,2,1.6,1.3, -   ,8,8.2,1, -   
+,Haemophilus influenzae type b,12, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,2,16,3,4,0.8, -   ,18,19.2,0.9, -   
+,Influenza (laboratory confirmed),62, -   ,4,3,6,2, -   ,3,1,19,28,21,621,156,"70,589.40",0, -   ,741,"1,47,678.60",0, -   
+,Measles,21, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,32, -   , -   , -   ,120.4, -   , -   
+,Mumps,43, -   , -   , -   , -   , -   , -   , -   , -   , -   ,2,2,20,7,103,0.1, -   ,24,553,0, -   
+,Pertussis,24, -   ,4,1,4, -   , -   ,8,5,22,19,13,497,132,"3,059.80",0, -   ,582,"13,321.00",0, -   
+,Pneumococcal disease (invasive),65, -   ,8,2,10,9,1,7,2,39,44,39,"1,210",322,576.4,0.6, -   ,"1,392","1,804.00",0.8, -   
+,Poliovirus infection,26, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Rotavirus,77, -   ,13,43,33,29, -   ,1,69,188,146,41,"1,582",791,"1,588.80",0.5, -   ,"1,740","4,344.00",0.4, -   
+,Rubella,29, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,2,1,1.4,0.7, -   ,3,12,0.3, -   
+,Rubella congenital,46, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Tetanus,33, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,5,2,0.8,2.5, -   ,7,4.2,1.7, -   
+,Varicella zoster (chickenpox),73,8, NN ,1,3,6,4,11,23,56,66,164,"1,686",397,"1,087.00",0.4, -   ,"2,174","3,625.80",0.6, -   
+,Varicella zoster (shingles),74,33, NN ,7,8,88,9,77,99,321,351,661,"9,103","2,295","3,161.40",0.7, -   ,"11,275","12,212.00",0.9, -   
+,Varicella zoster (unspecified),75,4, NN ,9,436,72,29,219,135,904,871,548,"16,888","5,466","3,467.20",1.6, - ,"19,193","14,062.20",1.4, - 
+Vectorborne diseases,Barmah Forest virus infection,48, -   ,2, -   ,4, -   , -   , -   ,1,7,10,21,320,60,76.6,0.8, -   ,397,409.2,1, -   
+,Chikungunya virus infection,78, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,2, -   ,21.8, -   , -   ,2,77.4,0, -   
+,Dengue virus infection,3, -   , -   , -   , -   ,1, -   , -   , -   ,1,1, -   ,5,3,206.4,0, -   ,5,"1,243.80",0, -   
+,Flavivirus infection (unspecified),1, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,1,3, -   ,6.6, -   , -   ,6,33,0.2, -   
+,Japanese encephalitis virus infection,59, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,1, -   , -   ,  , -   ,1,1.2,0.8, -   
+,Malaria,20, -   , -   , -   , -   , -   , -   , -   , -   , -   ,1,1,39,11,76.2,0.1, -   ,45,332.4,0.1, -   
+,Murray Valley encephalitis virus infection,49, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,1, -   , -   ,  , -   ,1,0.2,5, -   
+,Ross River virus infection,2, -   ,8,3,11,1, -   ,1,16,40,39,82,"3,002",251,467.2,0.5, -   ,"3,487","4,619.40",0.8, -   
+,West Nile/Kunjin virus infection,60, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,0.2, -   , -   , -   ,1.4, -   , -   
+Zoonoses,Anthrax,58, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Australian bat lyssavirus infection,63, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Brucellosis,4, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,17,4,5,0.8, -   ,19,19,1, -   
+,Leptospirosis,17, -   , -   , -   , -   , -   , -   , -   ,1,1,8,2,243,24,18.6,1.3, -   ,255,119,2.1,74.4
+,Lyssavirus infection (NEC),64, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   , -   ,  , -   
+,Ornithosis,23, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,4,21,4,9.6,0.4, -   ,37,25.6,1.4, -   
+,Q fever,27, -   ,4, -   ,8, -   , -   , -   , -   ,12,12,19,420,88,123.2,0.7, -   ,469,527.4,0.9, -   
+,Tularaemia,70, -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   , -   ,  , -   , -   ,0.4, -   , -   
+Other notifiable diseases,iGAS,82, NN , NN ,2,8,1, NN , NN ,2,13,12, -   ,151,93, -   ,  , - ,151,,, - 
+,Legionellosis,15, -   ,8, -   ,1,1,1,1,8,20,18,19,429,94,99,0.9, -   ,533,424.8,1.3, -   
+,Leprosy,16, -   , -   , -   ,1, -   , -   , -   , -   ,1,2,1,12,7,3.4,2.1, -   ,14,10.4,1.3, -   
+,Meningococcal disease (invasive),22, -   ,1, -   , -   , -   , -   , -   , -   ,1,4,4,62,17,83.2,0.2, -   ,71,244,0.3, -   
+,RSV,83, NN , NN ,42,24,7, NN , NN ,5,78,90, -   ,673,454, -   ,  , - ,673, -   ,  , - 
+,Tuberculosis,34, -   ,10,1,7, -   , -   ,10,9,37,41,70,"1,222",299,392,0.8, -   ,"1,493","1,466.20",1, -   
+,,,301,"5,149",235,"2,376",660,160,"19,352","1,156","29,389","38,477","8,814","3,44,971","1,94,087",,,,"3,78,611",,,
+"Footnotes:                    
+* Ratio of the 90 day prior surveillance period to the past 90 day 5 year rolling mean, or ratio of the year period prior surveillance period to the year period 5 year rolling mean.                   
+NN = Not Notifiable, NEC = Not Elsewhere Classified",,,,,,,,,,,,,,,,,,,,,,
+"The data in this report are reliant on the provision of data from states and territories to the Australian Government Department of Health. Backlogs in notifications at the state or territory level may contribute to delays in reporting to the NNDSS. Notifications for some high volume conditions are only uploaded quarterly by some jurisdictions, which can result in apparent large variability over time. The NNDSS is a dynamic dataset, with data in this report representing data available on (08/11/2021). Data in this report are subject to retrospective revision and may vary from data reported in published NNDSS reports and reports of notification data by states and territories.",,,,,,,,,,,,,,,,,,,,,,
