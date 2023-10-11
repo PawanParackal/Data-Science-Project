@@ -1,0 +1,137 @@
+=== Testcase 1: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 9.2,    Min Target: 18.4,    Max Target: 9.2  --> Score: 1.0 / 1.0
+Run Time: 0.000629s,    Min Target: 0.004s,    Max Target: 0.002s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 1: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 9.2,    Min Target: 18.4,    Max Target: 9.2  --> Score: 1.0 / 1.0
+Run Time: 0.00114s,    Min Target: 0.0028s,    Max Target: 0.0014s  --> Score: 1.0 / 1.0
+Nodes Expanded: 13,    Min Target: 20,    Max Target: 13  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 1: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 9.2,    Min Target: 18.4,    Max Target: 9.2  --> Score: 1.0 / 1.0
+Run Time: 0.000632s,    Min Target: 0.0028s,    Max Target: 0.0014s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+=== Testcase 2: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 24.9,    Min Target: 49.8,    Max Target: 24.9  --> Score: 1.0 / 1.0
+Run Time: 0.00284s,    Min Target: 0.03s,    Max Target: 0.015s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 2: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 24.9,    Min Target: 49.8,    Max Target: 24.9  --> Score: 1.0 / 1.0
+Run Time: 0.00692s,    Min Target: 0.028s,    Max Target: 0.014s  --> Score: 1.0 / 1.0
+Nodes Expanded: 105,    Min Target: 130,    Max Target: 110  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 2: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 24.9,    Min Target: 49.8,    Max Target: 24.9  --> Score: 1.0 / 1.0
+Run Time: 0.00282s,    Min Target: 0.028s,    Max Target: 0.014s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+=== Testcase 3: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 57.1,    Min Target: 114.2,    Max Target: 57.1  --> Score: 1.0 / 1.0
+Run Time: 0.0257s,    Min Target: 0.72s,    Max Target: 0.36s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 3: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 57.1,    Min Target: 114.2,    Max Target: 57.1  --> Score: 1.0 / 1.0
+Run Time: 0.156s,    Min Target: 0.5s,    Max Target: 0.25s  --> Score: 1.0 / 1.0
+Nodes Expanded: 3087,    Min Target: 5000,    Max Target: 3200  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 3: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 57.1,    Min Target: 114.2,    Max Target: 57.1  --> Score: 1.0 / 1.0
+Run Time: 0.0256s,    Min Target: 0.5s,    Max Target: 0.25s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+=== Testcase 4: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 122.0,    Min Target: 244.6,    Max Target: 122.3  --> Score: 1.0 / 1.0
+Run Time: 0.0383s,    Min Target: 2.8s,    Max Target: 1.4s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 4: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 122.0,    Min Target: 244.6,    Max Target: 122.3  --> Score: 1.0 / 1.0
+Run Time: 0.339s,    Min Target: 1.2s,    Max Target: 0.6s  --> Score: 1.0 / 1.0
+Nodes Expanded: 7316,    Min Target: 15500,    Max Target: 8000  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 4: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 122.0,    Min Target: 244.6,    Max Target: 122.3  --> Score: 1.0 / 1.0
+Run Time: 0.0384s,    Min Target: 1.2s,    Max Target: 0.6s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+=== Testcase 5: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 48.9,    Min Target: 97.8,    Max Target: 48.9  --> Score: 1.0 / 1.0
+Run Time: 0.116s,    Min Target: 24.0s,    Max Target: 12.0s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 5: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 48.9,    Min Target: 97.8,    Max Target: 48.9  --> Score: 1.0 / 1.0
+Run Time: 0.616s,    Min Target: 6.0s,    Max Target: 1.2s  --> Score: 1.0 / 1.0
+Nodes Expanded: 9248,    Min Target: 120000,    Max Target: 12000  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 5: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 48.9,    Min Target: 97.8,    Max Target: 48.9  --> Score: 1.0 / 1.0
+Run Time: 0.122s,    Min Target: 6.0s,    Max Target: 1.2s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+=== Testcase 6: Uniform Cost Search =======================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 363.0,    Min Target: 726.6,    Max Target: 363.3  --> Score: 1.0 / 1.0
+Run Time: 1.33s,    Min Target: 1600.0s,    Max Target: 800.0s  --> Score: 1.0 / 1.0
+
+Testcase UCS total score: 3.0 / 3.0
+
+=== Testcase 6: A* Heuristic ==============================================
+Admissibility: 1.0 / 1.0
+Path Cost: 363.0,    Min Target: 726.6,    Max Target: 363.3  --> Score: 1.0 / 1.0
+Run Time: 315.0s,    Min Target: 1100.0s,    Max Target: 550.0s  --> Score: 1.0 / 1.0
+Nodes Expanded: 4783142,    Min Target: 8000000,    Max Target: 5000000  --> Score: 1.0 / 1.0
+
+Testcase A* heuristic total score: 4.0 / 4.0
+
+=== Testcase 6: A* Search =================================================
+Agent successfully reached the goal --> Score: 1.0 / 1.0
+Path Cost: 363.0,    Min Target: 726.6,    Max Target: 363.3  --> Score: 1.0 / 1.0
+Run Time: 1.36s,    Min Target: 1100.0s,    Max Target: 550.0s  --> Score: 1.0 / 1.0
+
+Testcase A* search total score: 3.0 / 3.0
+
+
+
+=== Summary ============================================================
+Total Score: 60.0 (out of max possible score 60.0)
+Autograder completed in 219.66330313682556 seconds.
