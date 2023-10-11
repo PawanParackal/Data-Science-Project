@@ -1,1 +1,1 @@
-Here are the Description of the DragonGame AI pathfinding.
+Here is the Description of the DragonGame AI Decision Process.
