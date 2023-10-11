@@ -6,8 +6,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,9 +37,10 @@ Before you begin, make sure you have the following dependencies installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-Usage
+   git clone https://github.com/pawanparackal/Data-Science-Project/Chat_With_Multiple_PDFs.git
+   cd Data-Science-Project
+
+## Usage
 Upload your PDF documents using the file uploader in the sidebar.
 
 Click the "Proceed" button to start the analysis of the uploaded PDFs.
@@ -51,11 +50,6 @@ The application will extract text from the PDFs, split it into chunks, and creat
 You can ask questions in the chat input field.
 
 The application will provide conversational responses based on the content of the uploaded PDFs.
-
-Contributing
-We welcome contributions from the community. If you have any ideas, suggestions, or want to contribute to this project, please follow these steps:
-
-Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with clear messages.
 Push your changes to your fork.
